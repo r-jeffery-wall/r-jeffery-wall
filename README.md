@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Rowan. (he/him)
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=r-jeffery-wall)](https://github.com/anuraghazra/github-readme-stats)
-[rowanjefferywall.com](https://rowanjefferywall.com)
+
+Vist my personal website at: [rowanjefferywall.com](https://rowanjefferywall.com)
+
 ## - 🔭 I’m currently working on ...
 - Building out my portfolio with as many projects as possible, big and small.
   - These mainly come from [CodeCademy](https://www.codecademy.com/learn), [FrontEndMentor](https://www.frontendmentor.io/home), and my own ideas!
