@@ -8,7 +8,8 @@ Vist my personal website at: [rowanjefferywall.com](https://rowanjefferywall.com
   - These mainly come from [CodeCademy](https://www.codecademy.com/learn), [FrontEndMentor](https://www.frontendmentor.io/home), and my own ideas!
  
 ## - 🌱 I’m currently learning ...
-- JavaScript, trying to learn and improve my skills with popular FrontEnd frameworks such as React.
+- Back-end practices and technologies. Currently working with Express, but I'm also interested in using Python or other languages for back-end.
+- TypeScript.
 - Git and GitHub best practices!
 - Coding and development best practices, currently reading [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code).
 
